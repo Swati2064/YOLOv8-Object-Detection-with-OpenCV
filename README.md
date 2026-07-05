@@ -157,12 +157,6 @@ pip install ultralytics opencv-python numpy
 
 ---
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to fork this repository and submit a pull request.
-
 ---
 
 ## 👩‍💻 Author
